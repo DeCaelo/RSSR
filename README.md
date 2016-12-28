@@ -1,1 +1,1 @@
-# ReduxSimpleStarter with Redux
+# ReduxSimpleStarter: Redux
