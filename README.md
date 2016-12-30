@@ -1,1 +1,1 @@
-# ReduxSimpleStarter: Redux
+# ReduxSimpleStarter: Redux => Book app
